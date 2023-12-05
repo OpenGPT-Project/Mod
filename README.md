@@ -17,8 +17,6 @@ A very simple Mod AI that uses a list of preset `bad words` that are given a sco
 
 ## Examples
 
-Here are some examples on how GPTX-1.1 is the more better.
-
 | Model | Input | Output
 | ---------- | -------- | --------
 | Mod-1.0 | Fuck you | Warning: This sentence contains offensive words.
